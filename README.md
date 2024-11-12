@@ -1,4 +1,4 @@
-# React, HTML, CSS, react-router-dom
+Tech stack: React, HTML, CSS, react-router-dom
 
 Quick start:
 
